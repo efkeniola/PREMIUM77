@@ -16,6 +16,9 @@ $ pip2 install bs4
 
 $ pkg install git
 
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=GUPTA-SHAKEL&theme=radical)
+
+
 $ git clone https://github.com/GUPTA-SHAKEL/PREMIUM77.git
 
 $ cd PREMIUM77
