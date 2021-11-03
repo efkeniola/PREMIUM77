@@ -21,4 +21,4 @@
 🇳🇬cd PREMIUM77
 
 🇳🇬python2 Pro.so
-![GitHub followers](https://img.shields.io/github/followers/GUPTA-SHAKEL?style=social)
+![Facebook profile](https://img.shields.io/facebok/profile/abimbola.peters.9?style=social)
