@@ -21,4 +21,4 @@
 🇳🇬cd PREMIUM77
 
 🇳🇬python2 Pro.so
-![Facebook profile](https://img.shields.io/facebok/profile/abimbola.peters.9?style=social)
+
