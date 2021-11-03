@@ -1,24 +1,25 @@
 #PREMIUMTOOL🔑 ENJOY ❤️
 
-🇳🇬pkg update
+$ pkg update
 
-🇳🇬pkg upgrade
+$ pkg upgrade
 
-🇳🇬pkg install python
+$ pkg install python
 
-🇳🇬pkg install python2
+$ pkg install python2
 
-🇳🇬pip2 install requests
+$ pip2 install requests
 
-🇳🇬pip2 install mechanize
+$ pip2 install mechanize
 
-🇳🇬pip2 install bs4
+$ pip2 install bs4
 
-🇳🇬pkg install git
+$ pkg install git
 
-🇳🇬git clone https://github.com/GUPTA-SHAKEL/PREMIUM77.git
+$ git clone https://github.com/GUPTA-SHAKEL/PREMIUM77.git
 
-🇳🇬cd PREMIUM77
+$ cd PREMIUM77
 
-🇳🇬python2 Pro.so
+$ python2 Pro.so
 
+![GitHub contributors](https://img.shields.io/github/contributors/GUPTA-SHAKEL/PREMIUM77?style=plastic)
