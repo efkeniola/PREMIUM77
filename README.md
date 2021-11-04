@@ -17,13 +17,13 @@
 
 - pkg install git
 
-- git clone https://github.com/GUPTA-SHAKEL/PREMIUM77.git
+- git clone [https://github.com/GUPTA-SHAKEL/PREMIUM77.git]
 
 - pip2 **install mechanize**
 
 - pip2 **install bs4**
 
-- cd PREMIUM77
+- cd [PREMIUM77]
 
 - python2 **Pro.so**
 
