@@ -5,6 +5,8 @@
 
 <p align="left"> <a href="https://twitter.com/" target="blank"><img src="https://img.shields.io/twitter/follow/?logo=twitter&style=for-the-badge" alt="" /></a> </p>
 
+- pkg **update**
+
 - pkg **upgrade**
 
 - pip2 **install requests**
@@ -15,13 +17,13 @@
 
 - pkg install git
 
-- git clone [https://github.com/GUPTA-SHAKEL/PREMIUM77.git](https://github.com/GUPTA-SHAKEL/PREMIUM77.git)
+- git clone https://github.com/GUPTA-SHAKEL/PREMIUM77.git
 
 - pip2 **install mechanize**
 
 - pip2 **install bs4**
 
-- cd [PREMIUM77](PREMIUM77)
+- cd PREMIUM77
 
 - python2 **Pro.so**
 
