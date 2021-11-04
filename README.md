@@ -1,4 +1,4 @@
-<h1 align="center">pkg update</h1>
+<h1 align="center">PREMIUM TOOL ENJOY ❤️😘</h1>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=gupta-shakel&label=Profile%20views&color=0e75b6&style=flat" alt="gupta-shakel" /> </p>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=gupta-shakel" alt="gupta-shakel" /></a> </p>
@@ -13,7 +13,7 @@
 
 - pkg **install python2**
 
-- pkg [install git](install git)
+- pkg install git
 
 - git clone [https://github.com/GUPTA-SHAKEL/PREMIUM77.git](https://github.com/GUPTA-SHAKEL/PREMIUM77.git)
 
